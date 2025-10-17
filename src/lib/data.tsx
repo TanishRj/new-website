@@ -252,17 +252,17 @@ export const TECHNOLOGIES: TechDetails[] = [
 ];
 
 export const EXPERIENCES: ExperienceDetails[] = [
-  {
-    logo: cyart_logo,
-    logoAlt: 'Upwork logo',
-    position: 'Red Team Intern',
-    startDate: new Date(2025, 8),
-    currentlyWorkHere: true,
-    summary: [
-      'Performing Vulnerability Assessment, Penetration Testing, and Security Monitoring',
-      'Working on Red Team operations using popular tools like Metasploit, Cobalt Strike, Mimikatz, BloodHound and Empire',
-    ],
-  },
+  // {
+  //   logo: cyart_logo,
+  //   logoAlt: 'Upwork logo',
+  //   position: 'Red Team Intern',
+  //   startDate: new Date(2025, 8),
+  //   currentlyWorkHere: true,
+  //   summary: [
+  //     'Performing Vulnerability Assessment, Penetration Testing, and Security Monitoring',
+  //     'Working on Red Team operations using popular tools like Metasploit, Cobalt Strike, Mimikatz, BloodHound and Empire',
+  //   ],
+  // },
   {
     logo: apcsip_logo,
     darkModeLogo: apcsip_logo,
